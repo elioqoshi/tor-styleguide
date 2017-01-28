@@ -23,7 +23,9 @@ elio@ura.design
 ----
 
 SVG files exported via Inkscape (Free Open Source Software)
+
 PDF Files exported via Scribus (Free Open Source Software)
+
 All files are licensed under a CC-BY 4.0 (Creative Commons Attribution) license.
 
 Author: Elio Qoshi
